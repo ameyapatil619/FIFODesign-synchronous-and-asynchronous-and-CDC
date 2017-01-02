@@ -1,0 +1,5 @@
+set -tmpdir "/home/ameya/Desktop/Indi_Research/AsynchronousFIFO/xst/projnav.tmp"
+set -xsthdpdir "/home/ameya/Desktop/Indi_Research/AsynchronousFIFO/xst"
+elaborate
+-ifn sync_r2w.prj
+-ifmt mixed

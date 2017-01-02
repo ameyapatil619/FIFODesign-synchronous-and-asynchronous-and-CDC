@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ameya/Desktop/Indi_Research/AsynchronousFIFO/fifo_asynchronous.xst" -ofn "/home/ameya/Desktop/Indi_Research/AsynchronousFIFO/fifo_asynchronous.syr" 

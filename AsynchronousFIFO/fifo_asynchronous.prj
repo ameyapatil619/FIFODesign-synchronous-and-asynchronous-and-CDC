@@ -1,0 +1,6 @@
+verilog work "wptr_full.v"
+verilog work "sync_w2r.v"
+verilog work "sync_r2w.v"
+verilog work "rptr_empty.v"
+verilog work "fifomem.v"
+verilog work "fifo_asynchronous.v"
